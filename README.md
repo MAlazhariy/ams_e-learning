@@ -17,9 +17,7 @@ El-Garayhi Education Center is one of the projects of (Academy Mentor). It is an
 ## Top skills & features
 
 - MVC with Provider as state management.
-- Clean code.
-- Dependency Injection, Singletone & Repository design patterns.
-- Named routes.
+- Save the exam degree locally offline and upload it to the server when the internet connection is restored.
 - Handling with REST API using ApiClient (with ApiResponse and ResponseModel models).
 - Track API requests & responses, and handle exceptions & API errors by the ApiResponse model that contact ui.
 - Quiz with customized correction feature.
